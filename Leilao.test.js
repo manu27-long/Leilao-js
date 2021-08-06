@@ -74,7 +74,7 @@ test('pegar menor lance na ordem descrescente', () => {
 );
 
 test('pegar menor lance aleatorio', () => { 
-  var leilao = new Leilao('play');
+  var leilao = new Leilao('notebook');
   leilao.propoe(new Lance('Jurema',100.0));
   leilao.propoe(new Lance('Maria',200.0));
   leilao.propoe(new Lance('João',150.0));
