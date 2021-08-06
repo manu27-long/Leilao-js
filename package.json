@@ -1,0 +1,25 @@
+{
+  "name": "leilao",
+  "version": "1.0.0",
+  "description": "sistema de leilao em js com jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu27-long/Leilao-js.git"
+  },
+  "keywords": [
+    "leilao"
+  ],
+  "author": "Manu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/manu27-long/Leilao-js/issues"
+  },
+  "homepage": "https://github.com/manu27-long/Leilao-js#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
